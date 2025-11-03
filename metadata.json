@@ -1,0 +1,7 @@
+{
+  "name": "DocVerify AI",
+  "description": "A smart document verification application powered by AI. Users can upload or scan documents like passports, IDs, and licenses to have them analyzed for authenticity, with results displayed in a detailed report.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
